@@ -1,0 +1,19 @@
+{
+  "name": "node_mvc_practice",
+  "version": "1.0.0",
+  "description": "Simple login app to demo MVC pattern on NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habarahonaa/node_mvc_practice.git"
+  },
+  "author": "Hollman Barahonaa | @habarahonaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habarahonaa/node_mvc_practice/issues"
+  },
+  "homepage": "https://github.com/habarahonaa/node_mvc_practice#readme"
+}
